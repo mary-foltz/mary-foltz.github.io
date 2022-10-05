@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mary-foltz.github.io/sitemap.xml

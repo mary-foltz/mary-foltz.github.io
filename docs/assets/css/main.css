@@ -210,6 +210,20 @@ footer.sticky-bottom { border-top: 1px solid var(--global-divider-color); paddin
 
 .projects h2.category { color: var(--global-divider-color); border-bottom: 1px solid var(--global-divider-color); padding-top: 0.5rem; margin-top: 2rem; margin-bottom: 1rem; text-align: right; }
 
+.people a { text-decoration: none; }
+
+.people a:hover .card-title { color: var(--global-theme-color); }
+
+.people .card img { width: 100%; }
+
+.people .card-item { width: auto; margin-bottom: 10px; }
+
+.people .card-item .row { display: flex; align-items: center; }
+
+.people .grid-sizer, .people .grid-item { width: 250px; margin-bottom: 10px; }
+
+.people h2.category { color: var(--global-divider-color); border-bottom: 1px solid var(--global-divider-color); padding-top: 0.5rem; margin-top: 2rem; margin-bottom: 1rem; text-align: right; }
+
 .publications { margin-top: 2rem; }
 
 .publications h1 { color: var(--global-theme-color); font-size: 2rem; text-align: center; margin-top: 1em; margin-bottom: 1em; }

@@ -16,7 +16,8 @@
         {%- endif -%}
           <div class="card-body">
             <h3 class="card-title text-lowercase">{{ person.title }}</h3>
-            <p class="card-text">{{ person.description }}</p>
+            <p class="card-text">Research Areas: {{ person.research_areas }}</p>
+            <p class="card-text">Hobbies: {{ person.hobbies }}</p>
             <div class="row ml-1 mr-1 p-0">
               {%- if person.github -%}
               <div class="github-icon">
@@ -36,5 +37,7 @@
         </div>
       </div>
     </div>
+    {%- if person.redirect or person.link-%}
   </a>
+  {%- endif -%}
 </div>

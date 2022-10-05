@@ -1,7 +1,9 @@
 ---
 layout: page
-title: person 1
-description: a person with a background image
+title: Sreemala Das Majumder
+# description: a person with a background image
+research_areas: treatment wetlands, greenhouse gas emissions, sustainable design
+hobbies: wildlife, birds, photography
 img: assets/img/12.jpg
 link: false
 importance: 1

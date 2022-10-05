@@ -1,8 +1,10 @@
 ---
 layout: page
-title: person 2
-description: a person with a background image
-img: assets/img/3.jpg
+title: Raana Koushki
+# description: a person with a background image
+research_areas: urban water management, sustainable design, denitrification, LCA
+hobbies: traveling, hiking, walking, spending time in nature
+img: assets/img/people/Raana Koushki.png
 link: false
 importance: 2
 category: PhD

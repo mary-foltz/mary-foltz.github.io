@@ -1,11 +1,13 @@
 ---
 layout: page
-title: person 3
-description: a person that redirects to another website
-img: assets/img/7.jpg
+title: Madi Wilson
+# description: a person with a background image
+research_areas: soil denitrification, greenhouse gas emissions
+hobbies: reading, solving puzzles, and spending time with friends
+img: assets/img/people/Madi Wilson.png
 link: false
 importance: 3
-category: Masters
+category: Undergrad
 ---
 
 Every person has a beautiful feature showcase page.

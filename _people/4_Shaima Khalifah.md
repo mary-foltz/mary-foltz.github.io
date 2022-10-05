@@ -1,8 +1,10 @@
 ---
 layout: page
-title: person 4
-description: another without an image
-img:
+title: Shaima Khalifah
+# description: a person with a background image
+research_areas: soil denitrification, greenhouse gas emissions
+hobbies: reading, traveling, home decoration
+img: assets/img/people/Shaima Khalifah.png
 link: false
 importance: 3
 category: Masters

@@ -1,11 +1,13 @@
 ---
 layout: page
-title: person 6
-description: a person with no image
-img:
+title: Lizzie Long
+# description: a person with a background image
+research_areas: greenhouse gas emissions, agriculture, modeling
+hobbies: camping, napping, reading
+img: assets/img/people/Lizzie Long.png
 link: false
-importance: 4
-category: Undergrad
+importance: 3
+category: Masters
 ---
 
 Every person has a beautiful feature showcase page.

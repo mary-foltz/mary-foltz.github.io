@@ -1,10 +1,12 @@
 ---
 layout: page
-title: person 5
-description: a person with a background image
-img: assets/img/1.jpg
+title: Kalpataru Paul
+# description: a person with a background image
+research_areas: soil denitrification, greenhouse gas emissions
+hobbies: traveling, cycling, exercising, reading fictional books
+img: assets/img/people/Kalpataru Paul.png
 link: false
-importance: 3
+importance: 4
 category: Masters
 ---
 

@@ -4,7 +4,7 @@ title: person 4
 description: another without an image
 img:
 importance: 3
-category: fun
+category: Masters
 ---
 
 Every person has a beautiful feature showcase page.

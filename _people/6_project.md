@@ -4,7 +4,7 @@ title: person 6
 description: a person with no image
 img:
 importance: 4
-category: fun
+category: Undergrad
 ---
 
 Every person has a beautiful feature showcase page.

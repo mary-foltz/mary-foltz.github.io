@@ -4,7 +4,7 @@ title: person 1
 description: a person with a background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: PhD
 ---
 
 Every person has a beautiful feature showcase page.

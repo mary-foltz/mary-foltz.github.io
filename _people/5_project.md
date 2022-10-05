@@ -4,7 +4,7 @@ title: person 5
 description: a person with a background image
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: Masters
 ---
 
 Every person has a beautiful feature showcase page.

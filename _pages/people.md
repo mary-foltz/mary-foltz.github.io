@@ -11,7 +11,7 @@ horizontal: false
 
 <!-- pages/people.md -->
 <div class="people">
-{%- if site.enable_people_categories and page.enable_masonry %}
+{%- if site.enable_people_categories and page.display_categories %}
   <!-- Display categorized people -->
   {%- for category in page.display_categories %}
   <h2 class="category">{{ category }}</h2>

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: person 4
-description: another without an image
+title: person 6
+description: a person with no image
 img:
-importance: 3
-category: Masters
+link: false
+importance: 4
+category: Undergrad
 ---
 
 Every person has a beautiful feature showcase page.

@@ -1,9 +1,10 @@
 ---
 layout: page
-title: person 2
+title: person 1
 description: a person with a background image
-img: assets/img/3.jpg
-importance: 2
+img: assets/img/12.jpg
+link: false
+importance: 1
 category: PhD
 ---
 

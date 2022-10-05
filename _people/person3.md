@@ -1,10 +1,11 @@
 ---
 layout: page
-title: person 1
-description: a person with a background image
-img: assets/img/12.jpg
-importance: 1
-category: PhD
+title: person 3
+description: a person that redirects to another website
+img: assets/img/7.jpg
+link: false
+importance: 3
+category: Masters
 ---
 
 Every person has a beautiful feature showcase page.

@@ -1,8 +1,9 @@
 ---
 layout: page
-title: person 5
-description: a person with a background image
-img: assets/img/1.jpg
+title: person 4
+description: another without an image
+img:
+link: false
 importance: 3
 category: Masters
 ---

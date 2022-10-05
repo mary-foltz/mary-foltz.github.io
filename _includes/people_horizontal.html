@@ -1,7 +1,7 @@
 <div class="card-item col">
   {%- if person.redirect -%}
   <a href="{{ person.redirect }}">
-  {%- else -%}
+  {%- elsif person.link -%}
   <a href="{{ person.url | relative_url }}">
   {%- endif -%}
     <div class="card hoverable">

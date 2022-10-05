@@ -1,9 +1,9 @@
 ---
 layout: page
-title: person 3
-description: a person that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: person 5
+description: a person with a background image
+img: assets/img/1.jpg
+link: false
 importance: 3
 category: Masters
 ---

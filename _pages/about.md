@@ -6,20 +6,19 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: people/mary_foltz.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>216 Engineering North</p>
+    <p>Stillwater, OK  74078</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, I am Mary Foltz (she/her), an assistant professor at Oklahoma State University and creator of the Nature-Inspired Solutions research group. Generally, my research interests include finding ways to decrease greenhouse gas emissions and improve water quality within engineered and natural systems.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am happily married and have two curious children. My family is the central part of my identity and shapes how I interact with others and the world. I consider my research group an extension of my family and welcome each student as they are, with unique personalities and experiences that contribute to our overall group dynamic. Communication, honesty, and respect are critical areas emphasized in my professional and personal life.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My hobbies include walking, reading, and playing games. I have managed to maintain walking and reading since having children, although the walks are shorter and the books are simpler. I also love my pets, which were my first “babies”, and include them in our family fun!

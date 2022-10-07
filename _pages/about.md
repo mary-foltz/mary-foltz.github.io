@@ -15,7 +15,7 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Hi, I am Mary Foltz (she/her), an assistant professor at Oklahoma State University and creator of the Nature-Inspired Solutions research group. Generally, my research interests include finding ways to decrease greenhouse gas emissions and improve water quality within engineered and natural systems.

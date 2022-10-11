@@ -9,9 +9,13 @@ profile:
   image: people/mary_foltz.png
   image_circular: false # crops the image to make it circular
   address: >
-  
+    <p>Assistant Professor</p>
+    <p>Civil and Environmental Engineering</p>
+    <p>Oklahoma State University</p>
     <p>216 Engineering North</p>
     <p>Stillwater, OK  74078</p>
+    <br>
+    <p>mary.foltz@okstate.edu</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

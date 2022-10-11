@@ -23,3 +23,9 @@ Hi, I am Mary Foltz (she/her), an assistant professor at Oklahoma State Universi
 I am happily married and have two curious children. My family is the central part of my identity and shapes how I interact with others and the world. I consider my research group an extension of my family and welcome each student as they are, with unique personalities and experiences that contribute to our overall group dynamic. Communication, honesty, and respect are critical areas emphasized in my professional and personal life.
 
 My hobbies include walking, reading, and playing games. I have managed to maintain walking and reading since having children, although the walks are shorter and the books are simpler. I also love my pets, which were my first “babies”, and include them in our family fun!
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/logo.png" title="Foltz Group Logo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>

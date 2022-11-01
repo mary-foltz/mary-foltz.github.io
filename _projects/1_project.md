@@ -11,7 +11,7 @@ The overarching goal of this work is to guide decision-making regarding treatmen
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/Botanic_Garden_Wetland_2022.jpg" title="Botanic Garden Wetland" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/Botanic_Garden_Wetland_2022.jpg" title="Botanic Garden Wetland" zoomable="true" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

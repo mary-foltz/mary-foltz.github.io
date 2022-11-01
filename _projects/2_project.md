@@ -18,12 +18,12 @@ This project aims to understand the influence of biosolids on soil nutrient cycl
     Established full-scale treatment wetland in Oklahoma where we are collecting primary field data.
 </div>
 
-The team:
+The team:<br>
 
-Mary Foltz – Assistant professor, OSU
-Jason Tyler – Plants manager, City of Stillwater <a href="https://www.youtube.com/watch?v=Zwk4OmJYpOw">Link</a>
-Lizzie Long – MS student, OSU (modeling & field lead)
-Shaima Khalifah – MS student, OSU (lab lead)
-Shelby Maggard – BS student, OSU (field equipment lead)
-Madi Wilson – BS student, OSU
-Cheyenne Mata – BS student, OSU
+Mary Foltz – Assistant professor, OSU<br>
+Jason Tyler – Plants manager, City of Stillwater <a href="https://www.youtube.com/watch?v=Zwk4OmJYpOw">Link</a><br>
+Lizzie Long – MS student, OSU (modeling & field lead)<br>
+Shaima Khalifah – MS student, OSU (lab lead)<br>
+Shelby Maggard – BS student, OSU (field equipment lead)<br>
+Madi Wilson – BS student, OSU<br>
+Cheyenne Mata – BS student, OSU<br>

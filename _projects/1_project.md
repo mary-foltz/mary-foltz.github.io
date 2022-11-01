@@ -18,9 +18,9 @@ The overarching goal of this work is to guide decision-making regarding treatmen
     Stillwater WWTP biosolid application site with field static chambers capturing emissions for greenhouse gas analysis.
 </div>
 
-The team:
+The team:<br>
 
-Mary Foltz – Assistant professor, OSU
-<a href="http://byrne.engr.uky.edu/">Diana Byrne – Assistant professor, University of Kentucky </a>
-Sreemala Das Majumder – PhD student, OSU
-Carly Noone – BS student, OSU
+Mary Foltz – Assistant professor, OSU <br>
+<a href="http://byrne.engr.uky.edu/">Diana Byrne – Assistant professor, University of Kentucky </a><br>
+Sreemala Das Majumder – PhD student, OSU<br>
+Carly Noone – BS student, OSU<br>

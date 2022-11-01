@@ -15,5 +15,12 @@ The overarching goal of this work is to guide decision-making regarding treatmen
     </div>
 </div>
 <div class="caption">
-    Established full-scale treatment wetland in Oklahoma where we are collecting primary field data.
+    Stillwater WWTP biosolid application site with field static chambers capturing emissions for greenhouse gas analysis.
 </div>
+
+The team:
+
+Mary Foltz – Assistant professor, OSU
+<a href="http://byrne.engr.uky.edu/">Diana Byrne – Assistant professor, University of Kentucky </a>
+Sreemala Das Majumder – PhD student, OSU
+Carly Noone – BS student, OSU

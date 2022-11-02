@@ -20,9 +20,9 @@ Originally established in <a href="https://taps.unl.edu/">Nebraska</a> and later
 
 The team:<br>
 
-Mary Foltz – Assistant professor, OSU
-<a href="https://experts.okstate.edu/jason.warren">Jason Warren </a> – Professor, OSU
-<a href="https://bse.unl.edu/faculty/daran-rudnick">Daran Rudnick </a>– Associate professor, UNL 
-Lizzie Long – MS student, OSU (modeling lead)
-Raana Koushki – PhD student, OSU (LCA lead)
+Mary Foltz – Assistant professor, OSU <br>
+<a href="https://experts.okstate.edu/jason.warren">Jason Warren </a> – Professor, OSU <br>
+<a href="https://bse.unl.edu/faculty/daran-rudnick">Daran Rudnick </a>– Associate professor, UNL <br>
+Lizzie Long – MS student, OSU (modeling lead) <br>
+Raana Koushki – PhD student, OSU (LCA lead) <br>
 

@@ -21,6 +21,6 @@ The overarching goal of this work is to guide decision-making regarding treatmen
 The team:<br>
 
 Mary Foltz – Assistant professor, OSU <br>
-<a href="http://byrne.engr.uky.edu/">Diana Byrne – Assistant professor, University of Kentucky </a><br>
+<a href="http://byrne.engr.uky.edu/">Diana Byrne</a> – Assistant professor, University of Kentucky <br>
 Sreemala Das Majumder – PhD student, OSU<br>
 Carly Noone – BS student, OSU<br>

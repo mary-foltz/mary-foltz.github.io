@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://mary-foltz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mary-foltz.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-10-07T15:17:37-05:00</updated><id>https://mary-foltz.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-</subtitle><entry><title type="html">Displaying External Posts on Your al-folio Blog</title><link href="https://mary-foltz.github.io/2022/04/23/displaying-external-posts-on-your-al-folio-blog.html" rel="alternate" type="text/html" title="Displaying External Posts on Your al-folio Blog" /><published>2022-04-23T18:20:09-05:00</published><updated>2022-04-23T18:20:09-05:00</updated><id>https://mary-foltz.github.io/2022/04/23/displaying-external-posts-on-your-al-folio-blog</id><content type="html" xml:base="https://mary-foltz.github.io/2022/04/23/displaying-external-posts-on-your-al-folio-blog.html"><![CDATA[]]></content><author><name></name></author></entry><entry><title type="html">a post with diagrams</title><link href="https://mary-foltz.github.io/2021/07/04/diagrams.html" rel="alternate" type="text/html" title="a post with diagrams" /><published>2021-07-04T12:39:00-05:00</published><updated>2021-07-04T12:39:00-05:00</updated><id>https://mary-foltz.github.io/2021/07/04/diagrams</id><content type="html" xml:base="https://mary-foltz.github.io/2021/07/04/diagrams.html"><![CDATA[<p>This theme supports generating various diagrams from a text description using <a href="https://github.com/zhustec/jekyll-diagrams" target="\_blank">jekyll-diagrams</a> plugin.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="https://mary-foltz.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://mary-foltz.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2022-11-02T12:36:44-05:00</updated><id>https://mary-foltz.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">a post with diagrams</title><link href="https://mary-foltz.github.io/2021/07/04/diagrams.html" rel="alternate" type="text/html" title="a post with diagrams" /><published>2021-07-04T12:39:00-05:00</published><updated>2021-07-04T12:39:00-05:00</updated><id>https://mary-foltz.github.io/2021/07/04/diagrams</id><content type="html" xml:base="https://mary-foltz.github.io/2021/07/04/diagrams.html"><![CDATA[<p>This theme supports generating various diagrams from a text description using <a href="https://github.com/zhustec/jekyll-diagrams" target="\_blank">jekyll-diagrams</a> plugin.
 Below, we generate a few examples of such diagrams using languages such as <a href="https://mermaid-js.github.io/mermaid/" target="\_blank">mermaid</a>, <a href="https://plantuml.com/" target="\_blank">plantuml</a>, <a href="https://vega.github.io/vega-lite/" target="\_blank">vega-lite</a>, etc.</p>
 
 <p><strong>Note:</strong> different diagram-generation packages require external dependencies to be installed on your machine.
@@ -522,4 +522,25 @@ Simply add <code class="language-plaintext highlighter-rouge">data-zoomable</cod
 </figure>
 
     </div>
-</div>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="images" /><summary type="html"><![CDATA[this is what included images could look like]]></summary></entry></feed>
+</div>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="images" /><summary type="html"><![CDATA[this is what included images could look like]]></summary></entry><entry><title type="html">a post with formatting and links</title><link href="https://mary-foltz.github.io/sample-posts/2015/03/15/formatting-and-links.html" rel="alternate" type="text/html" title="a post with formatting and links" /><published>2015-03-15T11:40:16-05:00</published><updated>2015-03-15T11:40:16-05:00</updated><id>https://mary-foltz.github.io/sample-posts/2015/03/15/formatting-and-links</id><content type="html" xml:base="https://mary-foltz.github.io/sample-posts/2015/03/15/formatting-and-links.html"><![CDATA[<p>Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.</p>
+
+<h4 id="hipster-list">Hipster list</h4>
+<ul>
+    <li>brunch</li>
+    <li>fixie</li>
+    <li>raybans</li>
+    <li>messenger bag</li>
+</ul>
+
+<p>Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90’s yr typewriter selfies letterpress cardigan vegan.</p>
+
+<hr />
+
+<p>Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.</p>
+
+<blockquote>
+    We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
+    —Anais Nin
+</blockquote>
+
+<p>Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.</p>]]></content><author><name></name></author><category term="sample-posts" /><category term="formatting" /><category term="links" /><summary type="html"><![CDATA[march & april, looking forward to summer]]></summary></entry></feed>

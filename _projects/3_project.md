@@ -2,7 +2,7 @@
 layout: page
 title: TAPS GHG
 description: Testing Ag Performance Systems (TAPS) Greenhouse Gas Emissions
-img: assets/img/projects/TAPS.jpg
+img: assets/img/projects/test.jpg
 importance: 2
 category: work
 ---
@@ -11,7 +11,7 @@ Originally established in <a href="https://taps.unl.edu/">Nebraska</a> and later
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/TAPS.jpg" title="Botanic Garden Wetland" zoomable="true" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/projects/test.jpg" title="TAPS" zoomable="true" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

@@ -21,7 +21,7 @@ This project aims to understand the influence of biosolids on soil nutrient cycl
 The team:<br>
 
 Mary Foltz – Assistant professor, OSU<br>
-Jason Tyler – Plants manager, City of Stillwater <a href="https://www.youtube.com/watch?v=Zwk4OmJYpOw">Link</a><br>
+Jason Tyler – Plants manager, City of Stillwater <a href="https://www.youtube.com/watch?v=Zwk4OmJYpOw">Youtube Interview</a><br>
 Lizzie Long – MS student, OSU (modeling & field lead)<br>
 Shaima Khalifah – MS student, OSU (lab lead)<br>
 Shelby Maggard – BS student, OSU (field equipment lead)<br>

@@ -15,7 +15,7 @@ The overarching goal of this work is to guide decision-making regarding treatmen
     </div>
 </div>
 <div class="caption">
-    Stillwater WWTP biosolid application site with field static chambers capturing emissions for greenhouse gas analysis.
+    Established full-scale treatment wetland in Oklahoma where we are collecting primary field data.
 </div>
 
 The team:<br>

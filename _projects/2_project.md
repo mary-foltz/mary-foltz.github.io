@@ -15,7 +15,7 @@ This project aims to understand the influence of biosolids on soil nutrient cycl
     </div>
 </div>
 <div class="caption">
-    Established full-scale treatment wetland in Oklahoma where we are collecting primary field data.
+    Stillwater WWTP biosolid application site with field static chambers capturing emissions for greenhouse gas analysis.
 </div>
 
 The team:<br>

@@ -1,31 +1,31 @@
 <!-- _includes/people.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  {% if person.redirect -%}
-  <a href="{{ person.redirect }}">
-    {%- elsif person.link-%}
-    <a href="{{ person.url | relative_url }}">
+  {% if alum.redirect -%}
+  <a href="{{ alum.redirect }}">
+    {%- elsif alum.link-%}
+    <a href="{{ alum.url | relative_url }}">
       {%- endif %}
       <div class="card hoverable">
-        {%- if person.img %}
+        {%- if alum.img %}
         {%- include figure.html
-        path=person.img
-        alt="person thumbnail" -%}
+        path=alum.img
+        alt="alum thumbnail" -%}
         {%- endif %}
         <div class="card-body">
-          <h2 class="card-title">{{ person.title }}</h2>
-          <p class="card-text">Graduation: {{ person.graduation }}</p>
-          <p class="card-text">Thesis: {{ person.thesis }}</p>
+          <h2 class="card-title">{{ alum.title }}</h2>
+          <p class="card-text">Graduation: {{ alum.graduation }}</p>
+          <p class="card-text">Thesis: {{ alum.thesis }}</p>
           <div class="row ml-1 mr-1 p-0">
-            {%- if person.github -%}
+            {%- if alum.github -%}
             <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ person.github }}"><i class="fab fa-github gh-icon"></i></a>
+                <a href="{{ alum.github }}"><i class="fab fa-github gh-icon"></i></a>
               </div>
-              {%- if person.github_stars -%}
+              {%- if alum.github_stars -%}
               <span class="stars" data-toggle="tooltip" title="GitHub Stars">
                 <i class="fas fa-star"></i>
-                <span id="{{ person.github_stars }}-stars"></span>
+                <span id="{{ alum.github_stars }}-stars"></span>
               </span>
               {%- endif %}
             </div>
@@ -33,7 +33,7 @@
           </div>
         </div>
       </div>
-      {%- if person.redirect or person.link-%}
+      {%- if alum.redirect or alum.link-%}
     </a>
     {%- endif -%}
 </div>

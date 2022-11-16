@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Shaima Khalifah
+title: Shelby Maggard
 # description: a person with a background image
-research_areas: soil denitrification, greenhouse gas emissions
-hobbies: reading, traveling, home decoration
-img: assets/img/people/Shaima Khalifah.png
+research_areas: greenhouse gas emissions, chamber design
+hobbies: reading fiction novels, tasting coffee
+img: assets/img/people/Shelby Maggard.png
 link: false
-importance: 3
-category: Masters
+importance: 7
+category: Undergrad
 ---
 
 Every person has a beautiful feature showcase page.

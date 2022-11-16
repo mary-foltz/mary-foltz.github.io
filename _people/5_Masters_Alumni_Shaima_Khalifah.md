@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Lizzie Long
+title: Shaima Khalifah
 # description: a person with a background image
-research_areas: greenhouse gas emissions, agriculture, modeling
-hobbies: camping, napping, reading
-img: assets/img/people/Lizzie Long.png
+graduation: MS Civil Engineering 2022
+thesis: The effect of soil pH and texture on the ratio of denitrification end-products
+img: assets/img/people/Shaima Khalifah.png
 link: false
-importance: 3
-category: Masters
+importance: 9
+category: Masters Alumni
 ---
 
 Every person has a beautiful feature showcase page.

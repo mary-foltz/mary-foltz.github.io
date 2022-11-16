@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Shelby Maggard
+title: Madi Wilson
 # description: a person with a background image
-research_areas: greenhouse gas emissions, chamber design
-hobbies: reading fiction novels, tasting coffee
-img: assets/img/people/Shelby Maggard.png
+research_areas: soil denitrification, greenhouse gas emissions
+hobbies: reading, solving puzzles, and spending time with friends
+img: assets/img/people/Madi Wilson.png
 link: false
-importance: 3
+importance: 8
 category: Undergrad
 ---
 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Hani Shwiyyat
+title: Lizzie Long
 # description: a person with a background image
-research_areas: greenhouse gas emissions, treatment wetlands
-hobbies: reading, baking, astrology
-img: assets/img/people/Hani Shwiyyat.png
+research_areas: greenhouse gas emissions, agriculture, modeling
+hobbies: camping, napping, reading
+img: assets/img/people/Lizzie Long.png
 link: false
-importance: 3
+importance: 4
 category: Masters
 ---
 

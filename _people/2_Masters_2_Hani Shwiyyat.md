@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Madi Wilson
+title: Hani Shwiyyat
 # description: a person with a background image
-research_areas: soil denitrification, greenhouse gas emissions
-hobbies: reading, solving puzzles, and spending time with friends
-img: assets/img/people/Madi Wilson.png
+research_areas: greenhouse gas emissions, treatment wetlands
+hobbies: reading, baking, astrology
+img: assets/img/people/Hani Shwiyyat.png
 link: false
-importance: 3
-category: Undergrad
+importance: 5
+category: Masters
 ---
 
 Every person has a beautiful feature showcase page.

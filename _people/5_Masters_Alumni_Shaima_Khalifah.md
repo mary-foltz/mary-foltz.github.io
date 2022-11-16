@@ -7,7 +7,7 @@ thesis: The effect of soil pH and texture on the ratio of denitrification end-pr
 img: assets/img/people/Shaima Khalifah.png
 link: false
 importance: 9
-category: Masters Alumni
+category: Alumni Masters
 ---
 
 Every person has a beautiful feature showcase page.

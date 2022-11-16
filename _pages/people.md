@@ -5,7 +5,7 @@ permalink: /people/
 description: A growing collection of cool people.
 nav: true
 nav_order: 0
-display_categories: [PhD, Masters, Undergrad, Alumni PhD, Alumni Masters, Alumni Graduates]
+display_categories: [PhD, Masters, Undergrad]
 horizontal: false
 ---
 

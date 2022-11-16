@@ -309,6 +309,8 @@ enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_people_categories:  true    # enables categorization of people into
                                    # multiple categories
+enable_alumni_categories:  true    # enables categorization of alumni into
+                                   # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 
 

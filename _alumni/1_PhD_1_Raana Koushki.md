@@ -2,8 +2,8 @@
 layout: page
 title: Raana Koushki
 # description: a person with a background image
-research_areas: urban water management, sustainable design, denitrification, LCA
-hobbies: traveling, hiking, walking, spending time in nature
+graduation: Fall 2022
+thesis: traveling, hiking, walking, spending time in nature
 img: assets/img/people/Raana Koushki.png
 link: false
 importance: 2

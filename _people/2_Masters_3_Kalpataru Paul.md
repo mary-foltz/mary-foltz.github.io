@@ -6,7 +6,7 @@ research_areas: soil denitrification, greenhouse gas emissions
 hobbies: traveling, cycling, exercising, reading fictional books
 img: assets/img/people/Kalpataru Paul.png
 link: false
-importance: 6
+importance: 5
 category: Masters
 ---
 

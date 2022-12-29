@@ -2,12 +2,12 @@
 layout: page
 title: Shaima Khalifah
 # description: a person with a background image
-research_areas: soil denitrification, greenhouse gas emissions
-hobbies: reading, traveling, home decoration
+graduation: Fall 2022
+thesis: reading, traveling, home decoration
 img: assets/img/people/Shaima Khalifah.png
 link: false
-importance: 2
-category: PhD
+importance: 3
+category: Masters
 ---
 
 Every person has a beautiful feature showcase page.

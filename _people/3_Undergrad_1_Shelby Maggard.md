@@ -6,7 +6,7 @@ research_areas: greenhouse gas emissions, chamber design
 hobbies: reading fiction novels, tasting coffee
 img: assets/img/people/Shelby Maggard.png
 link: false
-importance: 7
+importance: 6
 category: Undergrad
 ---
 

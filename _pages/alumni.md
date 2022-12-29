@@ -17,18 +17,18 @@ horizontal: false
   <h2 class="category">{{ category }}</h2>
   {%- assign categorized_alumni = site.alumni | where: "category", category -%}
   {%- assign sorted_alumni = categorized_alumni | sort: "importance" %}
-  <!-- Generate cards for each alum -->
+  <!-- Generate cards for each person -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for alum in sorted_alumni -%}
+    {%- for person in sorted_alumni -%}
       {% include alumni_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for alum in sorted_alumni -%}
+    {%- for person in sorted_alumni -%}
       {% include alumni.html %}
     {%- endfor %}
   </div>
@@ -38,18 +38,18 @@ horizontal: false
 {%- else -%}
 <!-- Display alumni without categories -->
   {%- assign sorted_alumni = site.alumni | sort: "importance" -%}
-  <!-- Generate cards for each alum -->
+  <!-- Generate cards for each person -->
   {% if page.horizontal -%}
   <div class="container">
     <div class="row row-cols-2">
-    {%- for alum in sorted_alumni -%}
+    {%- for person in sorted_alumni -%}
       {% include alumni_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
-    {%- for alum in sorted_alumni -%}
+    {%- for person in sorted_alumni -%}
       {% include alumni.html %}
     {%- endfor %}
   </div>

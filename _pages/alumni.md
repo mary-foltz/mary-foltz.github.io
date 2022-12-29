@@ -5,7 +5,6 @@ permalink: /alumni/
 description: A growing collection of cool alumni.
 nav: true
 nav_order: 0
-display_categories: [Masters]
 horizontal: false
 ---
 

@@ -5,7 +5,7 @@ permalink: /alumni/
 description: A growing collection of cool alumni.
 nav: true
 nav_order: 0
-display_categories: [PhD Alumni, Masters Alumni, Undergrad Alumni]
+display_categories: [PhD Alumni, Masters Alumni]
 horizontal: false
 ---
 

@@ -6,7 +6,7 @@ research_areas: greenhouse gas emissions, agriculture, modeling
 hobbies: camping, napping, reading
 img: assets/img/people/Lizzie Long.png
 link: false
-importance: 4
+importance: 3
 category: Masters
 ---
 

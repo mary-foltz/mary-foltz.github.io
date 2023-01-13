@@ -6,7 +6,7 @@ research_areas: greenhouse gas emissions, treatment wetlands
 hobbies: reading, baking, astrology
 img: assets/img/people/Hani Shwiyyat.png
 link: false
-importance: 5
+importance: 4
 category: Masters
 ---
 

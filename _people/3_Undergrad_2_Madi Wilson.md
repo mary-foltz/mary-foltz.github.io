@@ -6,7 +6,7 @@ research_areas: soil denitrification, greenhouse gas emissions
 hobbies: reading, solving puzzles, and spending time with friends
 img: assets/img/people/Madi Wilson.png
 link: false
-importance: 8
+importance: 7
 category: Undergrad
 ---
 

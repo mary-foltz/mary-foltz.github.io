@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Raana Koushki
+title: Tabassum Maliha
 # description: a person with a background image
-graduation: Fall 2022
-thesis: "Sustainability in Agricultural Practices: Carbon Footprint of Agricultural Groundwater Pumping, and Microbial Denitrification in Agricultural Soils"
-img: assets/img/people/Raana Koushki.png
+research_areas: nature-based solutions, stormwater
+hobbies: painting, reading, travelling, caring for animals
+img: assets/img/people/Maliha Tabassum.png
 link: false
-importance: 2
-category: PhD
+importance: 5
+category: Masters
 ---
 
 Every person has a beautiful feature showcase page.

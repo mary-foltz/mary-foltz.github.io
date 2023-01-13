@@ -3,7 +3,7 @@ layout: page
 title: Shaima Khalifah
 # description: a person with a background image
 graduation: Fall 2022
-thesis: reading, traveling, home decoration
+thesis: The Effect of Soil pH and Texture on the Ratio of Denitrification End-products
 img: assets/img/people/Shaima Khalifah.png
 link: false
 importance: 3

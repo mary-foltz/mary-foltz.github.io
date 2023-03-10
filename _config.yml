@@ -140,9 +140,9 @@ collections:
   people:
     output: true
     permalink: /people/:path/
-  alumni:
-    output: true
-    permalink: /alumni/:path/
+  # alumni:
+  #   output: true
+  #   permalink: /alumni/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
 news_limit: 5 # leave blank to include all the news in the `_news` folder
@@ -312,8 +312,8 @@ enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_people_categories:  true    # enables categorization of people into
                                    # multiple categories
-enable_alumni_categories:  true    # enables categorization of alumni into
-                                   # multiple categories
+# enable_alumni_categories:  true    # enables categorization of alumni into
+#                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 
 

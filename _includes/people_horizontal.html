@@ -16,8 +16,18 @@
         {%- endif -%}
           <div class="card-body">
             <h3 class="card-title">{{ person.title }}</h3>
+            {%- if person.research_areas -%}
             <p class="card-text">Research Areas: {{ person.research_areas }}</p>
+            {%- endif %}
+            {%- if person.hobbies -%}
             <p class="card-text">Hobbies: {{ person.hobbies }}</p>
+            {%- endif %}
+            {%- if person.degree -%}
+            <p class="card-text">Degree: {{ person.degree }}</p>
+            {%- endif %}
+            {%- if person.thesis -%}
+            <p class="card-text">Thesis: {{ person.thesis }}</p>
+            {%- endif %}
             <div class="row ml-1 mr-1 p-0">
               {%- if person.github -%}
               <div class="github-icon">

@@ -2,12 +2,11 @@
 layout: page
 title: Shaima Khalifah
 # description: a person with a background image
-graduation: MS Civil Engineering 2022
-thesis: The effect of soil pH and texture on the ratio of denitrification end-products
-img: assets/img/people/Shaima Khalifah.png
+degree: MS Fall 2022
+thesis: The Effect of Soil pH and Texture on the Ratio of Denitrification End-products
 link: false
-importance: 1
-category: Masters Alumni
+importance: 11
+category: Alumni
 ---
 
 Every person has a beautiful feature showcase page.

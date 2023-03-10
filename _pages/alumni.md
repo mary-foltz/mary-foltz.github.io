@@ -3,7 +3,7 @@ layout: page
 title: alumni
 permalink: /alumni/
 description: A growing collection of cool alumni.
-nav: true
+nav: false
 nav_order: 5
 display_categories: [PhD, Masters, Undergrad]
 horizontal: false

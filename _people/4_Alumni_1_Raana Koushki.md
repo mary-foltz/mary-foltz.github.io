@@ -5,7 +5,7 @@ title: Raana Koushki
 degree: PhD Fall 2022
 thesis: "Sustainability in Agricultural Practices: Carbon Footprint of Agricultural Groundwater Pumping, and Microbial Denitrification in Agricultural Soils"
 link: false
-importance: 10
+importance: -1
 category: Alumni
 ---
 

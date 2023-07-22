@@ -6,7 +6,7 @@ research_areas: nature-based solutions, stormwater
 hobbies: painting, reading, travelling, caring for animals
 img: assets/img/people/Maliha Tabassum.png
 link: false
-importance: 5
+importance: 4
 category: Masters
 ---
 

@@ -5,7 +5,7 @@ title: Shaima Khalifah
 degree: MS Fall 2022
 thesis: The Effect of Soil pH and Texture on the Ratio of Denitrification End-products
 link: false
-importance: 11
+importance: -2
 category: Alumni
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tabassum Maliha
+title: Maliha Tabassum
 # description: a person with a background image
 research_areas: nature-based solutions, stormwater
 hobbies: painting, reading, travelling, caring for animals

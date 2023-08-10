@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Karen McGuire
+title: Karen McGuire-Diemer
 # description: a person with a background image
 research_areas: treatment wetlands, heavy metals, nutrient cycling
 hobbies:  hiking, cooking, playing golf and tennis

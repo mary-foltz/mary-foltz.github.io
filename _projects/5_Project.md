@@ -24,4 +24,4 @@ Mary Foltz – Assistant professor, OSU<br>
 Jaime Schussler – Assistant professor, OSU<br>
 Deb Mishra – Associate professor, OSU<br>
 Shaima Khalifah – PhD student, OSU<br>
-Nabonita Datta – MS student, OSU<br>
+Nisha Bhatta – MS student, OSU<br>

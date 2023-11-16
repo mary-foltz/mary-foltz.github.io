@@ -25,5 +25,6 @@ The team:<br>
 
 Mary Foltz – Assistant professor, OSU <br>
 <a href="http://byrne.engr.uky.edu/">Diana Byrne</a> – Assistant professor, University of Kentucky <br>
-Sreemala Das Majumder – PhD student, OSU<br>
+Bob Nairn – Professor, OU <br>
+David Hancock – MS student, UK<br>
 Carly Noone – BS student, OSU<br>

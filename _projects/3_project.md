@@ -23,9 +23,8 @@ The team:<br>
 Mary Foltz – Assistant professor, OSU <br>
 <a href="https://experts.okstate.edu/jason.warren">Jason Warren </a> – Professor, OSU <br>
 <a href="https://experts.okstate.edu/sumit.sharma">Sumit Sharma </a> – Assistant Extension Specialist, OSU <br>
-<a href="https://bse.unl.edu/faculty/daran-rudnick">Daran Rudnick </a>– Associate professor, UNL <br>
+<a href="https://bse.unl.edu/faculty/daran-rudnick">Daran Rudnick </a>– Associate professor, KState <br>
 <a href="https://watercenter.colostate.edu/view/water-experts-2/entry/3163/">Amy Kremen </a>– Research Project Manager, CSU <br>
-Lizzie Long – MS student, OSU (modeling lead) <br>
-Raana Koushki – PhD student, OSU (LCA lead) <br>
+Lizzie Long – PhD student, OSU (modeling lead) <br>
 Shelby Maggard - BS student, OSU
 

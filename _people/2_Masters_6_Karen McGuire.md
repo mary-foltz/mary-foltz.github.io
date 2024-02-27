@@ -2,7 +2,7 @@
 layout: page
 title: Karen McGuire-Diemer
 # description: a person with a background image
-research_areas: treatment wetlands, heavy metals, nutrient cycling
+research_areas: biodegradation, green plastics, treatment wetlands, metals
 hobbies:  hiking, cooking, playing golf and tennis
 img: assets/img/people/Karen McGuire.png
 link: false

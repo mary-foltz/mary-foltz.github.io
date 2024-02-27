@@ -2,7 +2,7 @@
 layout: page
 title: Shelby Maggard
 # description: a person with a background image
-research_areas: greenhouse gas emissions, chamber design
+research_areas: greenhouse gas emissions, chamber design, modeling
 hobbies: reading fiction novels, tasting coffee
 img: assets/img/people/Shelby Maggard.png
 link: false

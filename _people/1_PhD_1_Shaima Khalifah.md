@@ -2,7 +2,7 @@
 layout: page
 title: Shaima Khalifah
 # description: a person with a background image
-research_areas: soil denitrification, greenhouse gas emissions
+research_areas: enhanced rock weathering, soil greenhouse gas emissions
 hobbies: reading, traveling, home decoration
 img: assets/img/people/Shaima Khalifah.png
 link: false

@@ -2,7 +2,7 @@
 layout: page
 title: Carly Noone
 # description: a person with a background image
-research_areas: sustainability 
+research_areas: sustainability, bacteria growth, trace metals
 hobbies:  thrift shopping, spending time outside, swimming, and playing volleyball
 img: assets/img/people/Carly Noone.png
 link: false

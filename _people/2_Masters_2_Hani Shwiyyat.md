@@ -2,7 +2,7 @@
 layout: page
 title: Hani Shwiyyat
 # description: a person with a background image
-research_areas: greenhouse gas emissions, treatment wetlands
+research_areas: dissolved greenhouse gases, groundwater wells
 hobbies: reading, baking, astrology
 img: assets/img/people/Hani Shwiyyat.png
 link: false

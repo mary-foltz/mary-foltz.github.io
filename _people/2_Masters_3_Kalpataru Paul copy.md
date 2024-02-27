@@ -2,7 +2,7 @@
 layout: page
 title: Kalpataru Paul
 # description: a person with a background image
-research_areas: soil denitrification, greenhouse gas emissions
+research_areas: soil denitrification, greenhouse gas emissions, microbial activity, trace metals
 hobbies: traveling, cycling, exercising, reading fictional books
 img: assets/img/people/Kalpataru Paul.png
 link: false

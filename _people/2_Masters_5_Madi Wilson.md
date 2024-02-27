@@ -2,7 +2,7 @@
 layout: page
 title: Madi Wilson
 # description: a person with a background image
-research_areas: soil denitrification, greenhouse gas emissions
+research_areas: enhanced rock weathering, water quality
 hobbies: reading, solving puzzles, and spending time with friends
 img: assets/img/people/Madi Wilson.png
 link: false

@@ -5,7 +5,6 @@ description: Greenhouse gas emissions from biosolid amended soils
 img: assets/img/projects/Biosolids_Project.jpg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 This project aims to understand the influence of biosolids on soil nutrient cycling and greenhouse gas emissions. The Stillwater Wastewater Treatment Plant is land applying biosolids derived from their treatment system to fertilize crops they later harvest and distribute as cattle feed. We are considering how these biosolids may enhance or inhibit nutrient cycling processes (i.e., denitrification) and greenhouse gas emissions. The team utilizes a combination of field, lab, and modeling approaches to answer different research questions under this project umbrella.

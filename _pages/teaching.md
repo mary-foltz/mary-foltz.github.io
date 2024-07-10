@@ -4,7 +4,11 @@ permalink: /teaching/
 title: teaching
 description: #Materials for courses you taught. Replace this text with your description.
 nav: true
+<<<<<<< HEAD
 nav_order: 4
+=======
+nav_order: 6
+>>>>>>> 16cee9c719080f64f4d3ad7bee62b327a3498fc2
 ---
 
 Teaching Philosophy

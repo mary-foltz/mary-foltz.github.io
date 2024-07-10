@@ -12,7 +12,6 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-<<<<<<< HEAD
 keywords: academic-website, portfolio-website, mary-foltz, okstate  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
@@ -20,15 +19,6 @@ icon: logo.png  # the emoji used as the favicon (alternatively, provide image na
 
 url: https://mary-foltz.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
-=======
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
->>>>>>> 16cee9c719080f64f4d3ad7bee62b327a3498fc2
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -90,7 +80,6 @@ facebook_id: # your facebook id
 flickr_id: # your flickr id
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
-<<<<<<< HEAD
 twitter_username: MaryEFoltz
 linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
@@ -111,9 +100,6 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-=======
-ieee_id: # your ieeexplore.ieee.org/author/id
->>>>>>> 16cee9c719080f64f4d3ad7bee62b327a3498fc2
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name

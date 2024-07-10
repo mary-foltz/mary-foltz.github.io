@@ -3,7 +3,7 @@ layout: page
 title: Denitrification in Soils
 description: Investigating factors that influence denitrification and nitrous oxide production from soils
 img: assets/img/projects/Lab_shaima-madi.jpg
-importance: 2
+importance: 4
 category: work
 ---
 

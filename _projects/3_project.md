@@ -3,7 +3,7 @@ layout: page
 title: TAPS GHG
 description: Testing Ag Performance Systems (TAPS) Greenhouse Gas Emissions
 img: assets/img/projects/test.jpg
-importance: 2
+importance: 3
 category: work
 ---
 

@@ -3,7 +3,7 @@ layout: page
 title: Enhanced Rock Weathering
 description: Exploring potential application of rock byproduct materials to soils for promoting carbon dioxide uptake
 img: assets/img/projects/Quarry.jpg
-importance: 2
+importance: 5
 category: work
 ---
 

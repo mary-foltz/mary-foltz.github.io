@@ -7,12 +7,15 @@ years: [2024, 2023, 2021, 2019]
 nav: true
 nav_order: 5
 ---
+
 <!-- _pages/publications.md -->
+
+{% if site.search_enabled %}
+<input type="text" id="bibsearch" spellcheck="false" autocomplete="off" class="search bibsearch-form-input" placeholder="Type to filter">
+{% endif %}
+
 <div class="publications">
 
-{%- for y in page.years %}
-  <h2 class="year">{{y}}</h2>
-  {% bibliography -f papers -q @*[year={{y}}]* %}
-{% endfor %}
+{% bibliography %}
 
 </div>

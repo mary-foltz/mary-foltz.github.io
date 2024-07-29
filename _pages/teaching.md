@@ -19,7 +19,7 @@ Environmental Engineering has become a rapidly growing field to best manage curr
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/teaching_course_map.png" title="3813 course map" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/teaching_course_map.png" title="3813 course map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

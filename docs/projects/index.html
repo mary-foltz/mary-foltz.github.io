@@ -211,6 +211,18 @@
             
           
             
+              
+                
+                <li class="nav-item ">
+                  
+                  <a class="nav-link" href="/groupphotos/">group photos
+                    
+                  </a>
+                </li>
+              
+            
+          
+            
           
           
           
@@ -251,14 +263,15 @@
     <!-- pages/projects.md -->
 <div class="projects">
 
-
-<!-- Display projects without categories -->
-
-
-
+  <!-- Display categorized projects -->
+  
+  <a id="work" href=".#work">
+    <h2 class="category">work</h2>
+  </a>
+  
+  
   <!-- Generate cards for each project -->
-
-
+  
   <div class="row row-cols-1 row-cols-md-3">
     
       <div class="col">
@@ -440,9 +453,63 @@
   <a href="/projects/6_Project/">
     <div class="card h-100 hoverable">
       
+        
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/projects/Biodegradation-480.webp 480w,/assets/img/projects/Biodegradation-800.webp 800w,/assets/img/projects/Biodegradation-1400.webp 1400w," sizes="250px" type="image/webp"></source>
+    
+    <img src="/assets/img/projects/Biodegradation.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+  </picture>
+
+  
+</figure>
+
+      
       <div class="card-body">
         <h2 class="card-title">Plastic Biodegradation</h2>
-        <p class="card-text">Comparing sustainability and natural biological degradation of natural and green plastics</p>
+        <p class="card-text">Comparing sustainability and natural biological degradation of natural and "green" plastics</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+    
+      <div class="col">
+  <a href="/projects/7_Project/">
+    <div class="card h-100 hoverable">
+      
+        
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/projects/FieldGHG-480.webp 480w,/assets/img/projects/FieldGHG-800.webp 800w,/assets/img/projects/FieldGHG-1400.webp 1400w," sizes="250px" type="image/webp"></source>
+    
+    <img src="/assets/img/projects/FieldGHG.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+  </picture>
+
+  
+</figure>
+
+      
+      <div class="card-body">
+        <h2 class="card-title">Cover Crop GHG in Cattle Production</h2>
+        <p class="card-text">Improving sustainability of beef production by utilizing legumes in summer cover crops to reduce grazing systems nitrogen emissions</p>
         <div class="row ml-1 mr-1 p-0">
           
         </div>
@@ -454,6 +521,55 @@
     
   </div>
   
+  
+  <a id="fun" href=".#fun">
+    <h2 class="category">fun</h2>
+  </a>
+  
+  
+  <!-- Generate cards for each project -->
+  
+  <div class="row row-cols-1 row-cols-md-3">
+    
+      <div class="col">
+  <a href="/projects/8_Project/">
+    <div class="card h-100 hoverable">
+      
+        
+
+<figure>
+  <picture>
+    <!-- Auto scaling with imagemagick -->
+    <!--
+      See https://www.debugbear.com/blog/responsive-images#w-descriptors-and-the-sizes-attribute and
+      https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images for info on defining 'sizes' for responsive images
+    -->
+    
+      <source class="responsive-img-srcset" srcset="/assets/img/projects/GiGIbooth-480.webp 480w,/assets/img/projects/GiGIbooth-800.webp 800w,/assets/img/projects/GiGIbooth-1400.webp 1400w," sizes="250px" type="image/webp"></source>
+    
+    <img src="/assets/img/projects/GiGIbooth.jpg" class="card-img-top" width="100%" height="auto" alt="project thumbnail" loading="eager" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+  </picture>
+
+  
+</figure>
+
+      
+      <div class="card-body">
+        <h2 class="card-title">Gals in Green Infrastructure (GiGI)</h2>
+        <p class="card-text">Outreach and education on water quality, water treatment, and green infrastucture</p>
+        <div class="row ml-1 mr-1 p-0">
+          
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+
+    
+  </div>
+  
+  
+
 
 </div>
 

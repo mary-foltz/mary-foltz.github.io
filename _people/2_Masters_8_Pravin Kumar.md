@@ -2,8 +2,8 @@
 layout: page
 title: Pravin Kumar
 # description: a person with a background image
-research_areas: ghg, septic irrigation
-hobbies: 
+research_areas: bioenergy, bioreactors, sustainability, microbiology
+hobbies: gardening, volunteering, playing cricket & badminton, weight lifting
 img: assets/img/people/Pravin Kumar.png
 link: false
 importance: 8

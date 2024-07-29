@@ -2,7 +2,7 @@
 layout: page
 title: Allie Shaw
 # description: a person with a background image
-research_areas: greenhouse gas emmissions, agriculture, denitrification
+research_areas: greenhouse gas emissions, agriculture, denitrification
 hobbies: reading, fishing, crochet, spending time outdoors
 img: assets/img/people/Allie Shaw.png
 link: false
